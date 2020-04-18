@@ -186,7 +186,9 @@ public class TestsMatrix {
         double [][] actual = Matrix.add(matrix1, matrix2);
 
         for (int row = 0; row < matrixFirst.length; row++) {
-            Assert.assertArrayEquals(sumMatrix[row], actual[row], DELTA);
+            Assert.assertArrayEquals(sumMatrix[row],
+                    actual[row],
+                    DELTA);
         }
     }
 

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7136176b-7733-4fe0-8e8b-f44cd1f028a5" name="Default Changelist" comment="" />
+    <list default="true" id="7136176b-7733-4fe0-8e8b-f44cd1f028a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sunMatrix.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestsMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestsMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestsMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestsMatrix.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZlY7REY1CaruDEfag5jeZiuv45" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -39,12 +49,22 @@
       <recent name="D:\LAB IDEA" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestsMatrix.multiplyNumberMatrixFromFile">
+  <component name="RunManager" selected="JUnit.TestsMatrix.addMatrixFromFile">
     <configuration name="TestsMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Matrix" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestsMatrix" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestsMatrix.addMatrixFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Matrix" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestsMatrix" />
+      <option name="METHOD_NAME" value="addMatrixFromFile" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,16 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestsMatrix.multiplyNumberParameterizedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Matrix" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestsMatrix" />
-      <option name="METHOD_NAME" value="multiplyNumberParameterizedTest(int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestsMatrix.testFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Matrix" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestsMatrix.multiplyNumberMatrixFromFile" />
+        <item itemvalue="JUnit.TestsMatrix.addMatrixFromFile" />
         <item itemvalue="JUnit.TestsMatrix" />
+        <item itemvalue="JUnit.TestsMatrix.multiplyNumberMatrixFromFile" />
         <item itemvalue="JUnit.TestsMatrix.multiplyMatrixFromFile" />
         <item itemvalue="JUnit.TestsMatrix.testFile" />
-        <item itemvalue="JUnit.TestsMatrix.multiplyNumberParameterizedTest" />
       </list>
     </recent_temporary>
   </component>
@@ -125,38 +135,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="432" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1585417290092" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587167242122">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1587227971376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587167242122" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587167242122">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587227971375" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1587228576281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587167242122" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587167242121">
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587228576281" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1587228576281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587167242121" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587167242122">
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587228576281" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1587228576281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587167242122" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1585426278934">
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587228576281" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1587228576281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585426278934" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1585426278933">
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587228576281" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1587228580634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585426278933" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1585426278932">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587228580634" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1587228580634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585426278932" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1585426278934">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587228580634" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1587228580634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585426278934" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587228580634" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1587228580634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587228580634" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1587138490795">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -165,5 +179,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587221506422" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/TestsMatrix.java</url>
+          <line>187</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
